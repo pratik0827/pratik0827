@@ -3,7 +3,7 @@
 **B.Sc. Computer Science (CGPA: 8.80)**  
 *Backend, Systems & Privacy-Preserving AI Engineering*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/pratik-patil-swe)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail)](mailto:pratikpatil5846w@gmail.com)
 
 ---
@@ -25,4 +25,4 @@
 ---
 
 ### 🎯 Research & Open Source Focus
-Actively preparing for contributions in distributed systems, security & privacy engineering, and trustworthy AI implementations across **Max Planck (MPI-SWS / MPI-SP)**, **RC Trust**, and **GSoC / LFX**.
+Actively contributing to open-source projects and exploring research in distributed systems, security & privacy engineering, and trustworthy AI.
